@@ -8,4 +8,6 @@ void main() {
 		total += i;
 	printf("total:", total);
 	printf("report");
+	
+	printf("final version");
 }
